@@ -2,9 +2,9 @@
 
 Software Engineer
 
-Electrical Engineer with professional experience in industrial automation and software development.
-
-Building backend systems, automation platforms and intelligent solutions with Python.
+Building industrial software,
+backend systems and intelligent automation
+with Python.
 
 ---
 
@@ -18,7 +18,7 @@ Currently working with Python, Django and JavaScript while continuously expandin
 
 ---
 
-## Core Expertise
+## Specialties
 
 - Backend Development
 - Process Automation
