@@ -1,28 +1,30 @@
 # Leonardo Henrique Ramos
 
-Software Engineer
+### Software Engineer
 
-Building industrial software,
-backend systems and intelligent automation
-with Python.
+Electrical Engineer specialized in **backend development**, **industrial software** and **process automation**.
+
+Building scalable backend systems, automation platforms and modern web applications with Python.
 
 ---
 
-## About
+## Tech Stack
 
-I develop software focused on backend development, process automation and systems integration.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,js,nextjs,html,css,postgres,docker,git,vscode,linux" />
+</p>
 
-My experience combines Industrial Automation and Software Engineering, allowing me to design applications that improve operational efficiency, automate repetitive tasks and solve real-world business problems.
+**Also working with**
 
-Currently working with Python, Django and JavaScript while continuously expanding my knowledge in software architecture, artificial intelligence and scalable backend applications.
+Pandas • Playwright • Selenium • Chart.js • CustomTkinter • REST APIs • JSON • XML • VBA • IBM MQ
 
 ---
 
 ## Specialties
 
 - Backend Development
-- Process Automation
 - Industrial Software
+- Process Automation
 - Systems Integration
 - REST APIs
 - Web Development
@@ -31,45 +33,19 @@ Currently working with Python, Django and JavaScript while continuously expandin
 
 ---
 
-## Tech Stack
+## About
 
-### Languages
+I am a Software Engineer with a background in Electrical Engineering, combining software development and industrial automation to build reliable solutions for real-world environments.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+My professional experience focuses on developing backend applications, automation tools, industrial software and systems integrations using Python and modern web technologies.
 
-### Frameworks & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=django,sqlite" />
-</p>
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### Also Working With
-
-Python • Pandas • Playwright • CustomTkinter • Chart.js • Selenium • VBA • REST APIs • SQL • JSON • XML • LBMS • SQS
-
----
-
-## Currently Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,fastapi,azure" />
-</p>
-
-Software Architecture • Artificial Intelligence • Design Patterns • Cloud Computing
+I enjoy designing software that automates processes, integrates systems and transforms complex operational challenges into scalable, maintainable and business-oriented solutions.
 
 ---
 
 ## Philosophy
 
-> Build software that solves real problems.
+> *Build software that solves real problems.*
 
 ---
 
@@ -93,6 +69,6 @@ Portfolio
 
 <div align="center">
 
-*"Technology is valuable when it simplifies complexity."*
+*"Technology becomes valuable when it simplifies complexity."*
 
 </div>
